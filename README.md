@@ -43,11 +43,11 @@ ECSLIPE-MAIN/
 ```
 Clone the repository:
 
-Bash
+ 
 git clone [https://github.com/itsheaven-dev/Ecslipe.git](https://github.com/itsheaven-dev/Ecslipe.git)
 Navigate to the project directory:
 
-Bash
+ 
 cd Ecslipe
 
 ```
