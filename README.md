@@ -42,8 +42,7 @@ ECSLIPE-MAIN/
 
 ```
 Clone the repository:
-git clone [https://github.com/itsheaven-dev/Ecslipe.git](https://github.com/itsheaven-dev/Ecslipe.git)
-
+git clone https://github.com/itsheaven-dev/Ecslipe.git
 
 Navigate to the project directory:
 cd Ecslipe
